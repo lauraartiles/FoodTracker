@@ -1,2 +1,2 @@
 # FoodTracker
-App built using Apple's Getting Started with Swift Guide: git remote add origin https://github.com/lauraartiles/FoodTracker.git
+App built using Apple's [Started Developing iOS Apps (Swift)] (https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1) 
